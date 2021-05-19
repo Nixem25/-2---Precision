@@ -7,7 +7,7 @@
 На тестирование затрачено: 15 минут
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Nixem25/-2---Precision/issues/1
+* [Результат вычисления суммы бонуса отображается без округления](https://github.com/Nixem25/-2---Precision/issues/1)
 
 ## Описание процесса тестирования
 1. Создано базовое приложение с кодом из текста задачи.
@@ -15,7 +15,7 @@
 
 
 В процессе тестирования использовались следующие артефакты*:
-* Требования к Задаче №2 - Precision https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2---precision
+* [Требования к Задаче №2 - Precision](https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2---precision)
 
 
 
